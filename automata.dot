@@ -1,0 +1,22 @@
+digraph G 
+{
+ node [shape=circle];
+ node [style=filled];
+ node [fillcolor="#EEEEEE"];
+ node [color="#EEEEEE"];
+ edge [color="#31CEF0"];
+ A -> B [label="1"];
+ A -> C [label="3"];
+ A -> E [label="2"];
+ B -> D [label="4"];
+ B -> E [label="5"];
+ C -> E [label="8"];
+ C -> F [label="9"];
+ E -> G [label="6"];
+ E -> H [label="7"];
+ D -> G [label="10"];
+ F -> H [label="11"];
+ G -> I [label="12"];
+ H -> I [label="13"];
+ rankdir=LR;
+}
