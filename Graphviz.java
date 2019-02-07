@@ -10,12 +10,12 @@ public class Graphviz {
 		/* RUTA DE DESTINO DEL ARCHIVO EN FORMATO .PNG*/
 		String direccionPng = "./automata.png";
 
-		dibujar(direccionDOT, direccionPng);
+		Dibujar(direccionDOT, direccionPng);
 	}
 
-	public void dibujar(String direccionDot, String direccionPng) {
+	public void Dibujar(String direccionDot, String direccionPng) {
 		try {
-			/* Esta clase es usada para crear procesos del sistema operativo */
+			/* CREAMOS PROCESOS DEL SISTEMA OPERATIVO */
 			ProcessBuilder proceso;
 
 			/* CONSTRUIMOS EL SIGUIENTE COMANDO PARA GENERAR EL AUTOMATA PLANTEADO */
