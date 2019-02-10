@@ -35,7 +35,7 @@ $ javac .\GraphvizJava.java
 $ java GraphvizJava .\auto.dot .\auto.png
 ```
 
-![1](./automata.png?raw=true "Autómata Generado")
+![1](./Version1/automata.png?raw=true "Autómata Generado")
 
 
 ## Autor
