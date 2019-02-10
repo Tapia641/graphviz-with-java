@@ -21,5 +21,7 @@ $ javac .\GraphvizJava.java
 $ java GraphvizJava .\auto.dot .\auto.png
 ```
 
+![1](./automata.png?raw=true "Autómata Generado")
+
 ## Licencia
 Este proyecto está bajo la Licencia - mira el archivo [LICENSE.md](LICENSE.md) para detalles
