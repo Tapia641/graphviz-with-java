@@ -13,6 +13,8 @@ Graphviz - Graph Visualization Software.
 
 ## Instalación
 **Linux:**
+
+
 Una instalación rápida y sencilla.
 ```sh
 $su
@@ -20,6 +22,8 @@ $yum install graphviz
 ```
 
 **Windows x64:**
+
+
 Ejecutamos el ejecutable y añadimos a las variables de entorno la siguiente dirección, para poder trabajar con "dot.exe" para la versión de 64 bits.
 
 
