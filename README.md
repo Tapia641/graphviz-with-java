@@ -37,5 +37,10 @@ $ java GraphvizJava .\auto.dot .\auto.png
 
 ![1](./automata.png?raw=true "Autómata Generado")
 
+
+## Autor
+
+* **Luis Enrique Hernández Tapia** - *Autor* - [Tapia641](https://github.com/Tapia641)
+
 ## Licencia
 Este proyecto está bajo la Licencia - mira el archivo [LICENSE](LICENSE) para detalles
