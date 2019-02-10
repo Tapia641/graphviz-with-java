@@ -5,8 +5,10 @@
 _Primero descargamos el software necesario de la siguiente dirección_
 
 ```
-Graphviz - Graph Visualization Software: http://www.graphviz.org/download/
+Graphviz - Graph Visualization Software.
 ```
+[Descargar](http://www.graphviz.org/download/)
+
 ## Instalación
 
 Windows x64:
