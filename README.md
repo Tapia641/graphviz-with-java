@@ -24,7 +24,7 @@ $yum install graphviz
 **Windows x64:**
 
 
-Ejecutamos el ejecutable y añadimos a las variables de entorno la siguiente dirección, para poder trabajar con "dot.exe" para la versión de 64 bits.
+Abrimos el ejecutable, procedemos con las intalación cotidiana y añadimos a las variables de entorno la siguiente dirección, para poder trabajar con "dot.exe" para la versión de 64 bits.
 
 
 _C:\Program Files (x86)\Graphviz2.38\bin_
