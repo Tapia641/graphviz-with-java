@@ -4,7 +4,7 @@
 Graphviz es una herramienta de código abierto, con la cual podemos crear grafos a través de un archivo en formato _.dot_. Mediante comandos guardados en el susodicho archivo se transforma a un grafo deseado con las transiciones preestablecidas. Para que funciones debe tener instalado el siguiente software mostrado a continuación.
 
 ## Pre-requisitos
-_Primero descargamos el software necesario de la siguiente dirección_
+Primero descargamos el software necesario de la siguiente dirección
 
 ```
 Graphviz - Graph Visualization Software.
